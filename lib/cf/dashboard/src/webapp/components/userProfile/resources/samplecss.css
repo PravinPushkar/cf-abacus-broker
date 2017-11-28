@@ -1,0 +1,181 @@
+body {
+  font-family: 'Arial', 'Helvetica', 'sans-serif';
+  background-color: #f5f5f5
+}
+
+body #topnav {
+  background-color: #222222
+}
+
+body #topnav>span {
+  color: white
+}
+
+body #topnav>user-profile>.user-profile>button {
+  background: transparent;
+  color: white
+}
+
+body #wrapper {
+  background: #f7f7f7
+}
+
+body #wrapper #dropdown-container {
+  background-color: #e6e6e6
+}
+
+body #wrapper #dropdown-container>div:first-child {
+  color: #666666
+}
+
+body #wrapper #dropdown-container .breadcrumb-container {
+  color: steelblue
+}
+
+body #wrapper #dropdown-container .breadcrumb-container .breadcrumb {
+  background-color: inherit
+}
+
+body #wrapper #dropdown-container .breadcrumb-container .dropdown-menu li a {
+  color: #555
+}
+
+body #wrapper #tile-panel .info-tile {
+  background: #fff
+}
+
+body #wrapper #tile-panel .info-tile .tile-sub-heading {
+  color: #9e9e9e
+}
+
+body #wrapper #tile-panel .info-tile .tile-icon {
+  color: #346187
+}
+
+body #wrapper #tile-panel .info-tile .tile-body .caret-text-color {
+  color: #5e696e
+}
+
+body #wrapper #tile-panel .info-tile .tile-body .no-comparison {
+  color: #333
+}
+
+body #wrapper #time-scale .dropdown input {
+  background-color: #fff
+}
+
+body #wrapper #time-scale .additional-info {
+  color: #666666
+}
+
+body #wrapper .data-container .chart-heading {
+  background-color: #f5f5f5;
+  color: #666666
+}
+
+body #wrapper .data-container .chart-heading .toggle-ctrl-icon {
+  background-color: white
+}
+
+body #wrapper .data-container .chart-heading .toggle-ctrl-icon .button-icon:hover {
+  background-color: rgba(158, 158, 158, 0.125)
+}
+
+body #wrapper .data-container .left-panel-wrapper {
+  background-color: white
+}
+
+body #wrapper .data-container .right-panel-wrapper {
+  background-color: white
+}
+
+body #wrapper .app-view .right-panel-wrapper-app .top-content-rt-pn-wrapper {
+  background-color: white
+}
+
+body #wrapper .app-view .right-panel-wrapper-app .top-content-rt-pn-wrapper .error-block-rt-pn {
+  color: #666
+}
+
+body #wrapper .app-view .right-panel-wrapper-app .bottom-content-rt-pn-wrapper {
+  background-color: white
+}
+
+body #wrapper .app-view .right-panel-wrapper-app .bottom-content-rt-pn-wrapper .error-block-rt-pn {
+  color: #666
+}
+
+.sel-background {
+  background-color: steelblue;
+  color: white
+}
+
+.row-background {
+  background-color: #ccc
+}
+
+.dropdown-label {
+  color: #666666
+}
+
+.text-success-imp {
+  color: #3c763d !important
+}
+
+.table thead a {
+  color: #555
+}
+
+.color666 {
+  color: #666666
+}
+
+.color333 {
+  color: #333333
+}
+
+.custom-alert {
+  color: #333;
+  background-color: #f5f5f5;
+  border-color: #ccc
+}
+
+.custom-alert i {
+  padding-right: 10px
+}
+
+.custom-error-alert {
+  color: #333
+}
+
+.custom-error-alert i {
+  padding-right: 10px
+}
+
+.container-border {
+  border: 1px solid #ccc
+}
+
+.no-event {
+  pointer-events: none
+}
+
+.bar {
+  fill: steelblue
+}
+
+.axis text {
+  font: 12px sans-serif
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #777;
+  shape-rendering: crispEdges
+}
+
+.bar:hover {
+  stroke: grey;
+  stroke-width: 2
+}
